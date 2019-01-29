@@ -1,7 +1,9 @@
+#Doris
+#Positive Check
 x=int(input())
 if x>0:
-   print("positive")
+   print("Positive")
 elif x<0:
-   print("negative")
+   print("Negative")
 else:
-   print("zero")
+   print("Zero")
